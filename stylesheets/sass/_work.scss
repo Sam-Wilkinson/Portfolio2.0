@@ -1,0 +1,33 @@
+.work{
+    .headingwork{
+
+        h1,h2{
+            text-align:center;
+        }
+    }
+    .projectlist{
+        ul{
+            list-style: none;
+        }
+    }
+
+        .workcontainer{
+            margin:0 5%;
+        }
+
+        .imagesofwork{
+            width: 312px;
+            height: 215px;
+            padding:25px;
+            z-index:0;
+            
+            transition: all 0.4s ease-out;
+
+            &:hover{
+                color:red;
+                
+            }
+        }
+        
+        
+}

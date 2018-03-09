@@ -4,5 +4,6 @@ package-lock.json
 node_modules
 .sass-cache
 stylesheets/.sass-cache
-/stylesheets/css/style.css
-/stylesheets/css/style.css.map
+stylesheets/css/style.css
+stylesheets/css/style.css.map
+fonts
